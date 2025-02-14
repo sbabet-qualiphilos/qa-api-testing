@@ -21,6 +21,7 @@ test-output/
 allure-results/
 allure-report/
 surefire-reports/
+.allure/
 
 # Ignore dependencies and libraries
 lib/
